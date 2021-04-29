@@ -10,3 +10,5 @@ est-ce que ça marche ?
 
 et pour récupérer les modifications faites sur github on fait :
 Air-de-Lea:premier-depot MOI$ git pull
+
+C'est trop super !!
