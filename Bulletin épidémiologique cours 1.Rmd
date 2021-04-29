@@ -25,7 +25,7 @@ covid<-read.csv2("https://www.data.gouv.fr/fr/datasets/r/f4935ed4-7a88-44e4-8f8a
 dim(covid)
 covid[1:4, 1:5]
 covid$Date<-as.POSIXct(covid$Date,format="%Y-%m-%d")
-pays <- "Allemagne"
+pays <- "France"
 ```
 
 # Graphique sur un mois en `r pays`
