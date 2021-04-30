@@ -58,3 +58,6 @@ if (taux>0.01) {evol="augmente"} else if (taux < (-0.01)) {evol="diminue"} else 
 ```
 
 Le nombre de cas de COVID19 en `r pays` sur `r jj` jours `r evol` avec un taux d'évolution journalier de `r round(taux*100,2)`%.
+
+
+#### salut lea 
